@@ -1,0 +1,71 @@
+CRM Tasks 
+----------------------------
+1) create a lead
+   https://tstdrv756622.app.netsuite.com/app/common/entity/custjob.nl?id=133242&whence=&cmid=1673238455503_188
+---------------------------------------------------------------------------------------------------------------
+2) create a prospect
+   https://tstdrv756622.app.netsuite.com/app/common/entity/custjob.nl?id=133243&whence=&cmid=1673273453321_351
+---------------------------------------------------------------------------------------------------------------
+3) create a customer
+   https://tstdrv756622.app.netsuite.com/app/common/entity/custjob.nl?id=133244&whence=&cmid=1673274043053_361
+--------------------------------------------------------------------------------------------------------------
+4) create a customer with multiple currencies
+   https://tstdrv756622.app.netsuite.com/app/common/entity/custjob.nl?id=133245&whence=&cmid=1673283618090_103
+--------------------------------------------------------------------------------------------------------------
+5) create a new contact
+   https://tstdrv756622.app.netsuite.com/app/common/entity/contact.nl?id=133246&whence=&cmid=1673284661793_108
+--------------------------------------------------------------------------------------------------------------
+6) create a new vendor
+   https://tstdrv756622.app.netsuite.com/app/common/entity/vendor.nl?id=133247&whence=&cmid=1673286450763_116
+--------------------------------------------------------------------------------------------------------------
+7) create a Employee
+   https://tstdrv756622.app.netsuite.com/app/common/entity/employee.nl?id=133248&whence=&cmid=1673289087960_183
+----------------------------------------------------------------------------------------------------------------
+8) Make a employee a support Rep
+   https://tstdrv756622.app.netsuite.com/app/common/entity/employee.nl?id=133249&whence=&cmid=1673289778581_186
+---------------------------------------------------------------------------------------------------------------
+9) create a partner
+   https://tstdrv756622.app.netsuite.com/app/common/entity/partner.nl?id=133250&whence=&cmid=1673290170116_190
+--------------------------------------------------------------------------------------------------------------
+10) Create a new Group for Employees of a Subsidiary/ Create a group for type company customers
+    https://tstdrv756622.app.netsuite.com/app/crm/common/crmgroup.nl?id=133251&whence=&cmid=1673290503492_194
+--------------------------------------------------------------------------------------------------------------
+11) Create a lead > Convert to Prospect > Convert to customer through transaction process
+    https://tstdrv756622.app.netsuite.com/app/accounting/transactions/salesord.nl?id=194641&whence=&cmid=1673323052979_15
+-------------------------------------------------------------------------------------------------------------------------
+12) Enable and Disable lead conversion
+    https://tstdrv756622.app.netsuite.com/app/common/entity/custjob.nl?id=133255&whence=&cmid=1673325063404_26
+--------------------------------------------------------------------------------------------------------------
+13) Assign leads to the sales Rep
+    https://tstdrv756622.app.netsuite.com/app/common/entity/custjob.nl?id=133242&whence=&cmid=1673238455503_188
+---------------------------------------------------------------------------------------------------------------
+14) create a email template
+    https://tstdrv756622.app.netsuite.com/app/crm/common/merge/emailtemplates.nl?whence=&cmid=1673174717562_68
+---------------------------------------------------------------------------------------------------------------
+15) create a sales campaign
+    https://tstdrv756622.app.netsuite.com/app/crm/marketing/salescampaign.nl?id=3063&whence=&cmid=1673172853670_66
+------------------------------------------------------------------------------------------------------------------
+16) create a marketing campaign
+    https://tstdrv756622.app.netsuite.com/app/crm/marketing/campaign.nl?id=3062&whence=&cmid=1673167850197_64
+--------------------------------------------------------------------------------------------------------------
+17) create a online lead form
+    https://tstdrv756622.app.netsuite.com/app/crm/sales/leadform.nl?id=162&whence=&cmid=1673335404841_64
+---------------------------------------------------------------------------------------------------------
+18) Automatically assign a Lead Source to Leads who registers from the Online Customer/Lead Form
+    https://tstdrv756622.app.netsuite.com/app/crm/sales/leadform.nl?id=164&whence=&cmid=1673337169014_74
+---------------------------------------------------------------------------------------------------------
+19) Create Case. Replies for the case must get attched to case
+    https://tstdrv756622.app.netsuite.com/app/crm/support/supportcase.nl?id=3064&whence=&cmid=1673343530671_114
+    https://tstdrv756622.app.netsuite.com/app/crm/support/supportcase.nl?id=3065&whence=&cmid=1673345780371_118
+----------------------------------------------------------------------------------------------------------------
+20) create a case and then assign a solution to it
+    https://tstdrv756622.app.netsuite.com/app/crm/support/supportcase.nl?id=3068&whence=&cmid=1673348874230_150
+----------------------------------------------------------------------------------------------------------------
+21) Create a Case escalation rule on the amount of time since the case was created
+    https://tstdrv756622.app.netsuite.com/app/crm/support/escalationfieldrule.nl?id=217&whence=&cmid=1673351637637_171
+-----------------------------------------------------------------------------------------------------------------------
+22) Create a Case and escalate it
+    https://tstdrv756622.app.netsuite.com/app/crm/support/supportcase.nl?id=3069&whence=&cmid=1673352063170_176
+----------------------------------------------------------------------------------------------------------------
+23) Identify where you can set a notification ( a email to the assignees ) when using "Email Case Capture" Feature
+    setup>company>Enable features>CRM>Support 
